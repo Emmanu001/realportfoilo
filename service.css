@@ -1,0 +1,263 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+body{
+    /*background-image: url(../realportfoilo/image/IMG_20230305_122712.jpg) ;*/
+    opacity: 1.5;
+    z-index: -5;
+    background: white
+    /*background-size: cover;
+    background-position: right;
+    background-position-x: right;
+    background-position-y: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;*/
+
+}
+.offcanvas-body{
+    background-color: #000;
+}
+
+.navbar-toggler-icon{
+    background-color: #000;
+    
+}
+.navbar-toggler{
+    color: black;
+    background-color: #000;
+}
+
+.fa-bars{
+    color: #fff;
+    margin-top: 20%;
+}
+.offcanvas-header{
+    background-color: whitesmoke;
+}
+.navbar-brand{
+    background-color: #000;
+    color: #fff;
+    text-transform: capitalize;
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-style: normal;
+    margin-left: 9%;
+    margin-right: 10%;
+}
+span{
+    color: red;
+}
+.emy{
+    color: white;
+}
+.nav-link active{
+    float: right;
+}
+/*.nav-item{
+    text-align: center;
+}*/
+.dropdown-item{
+    width: 20%;
+    padding: auto;
+
+}
+.dropdown-menu{
+    margin-right: 50%;
+    background-color: whitesmoke;
+    opacity: 1.5;
+}
+
+li{
+    color: #ff0000;
+}
+/*ul{
+    margin:auto;
+    margin-right: 100px;
+}*/
+
+
+.head1{
+    margin-top: 7%;
+    margin-left: 2%;
+    /*margin-right: 2%;*/
+}
+h1{
+    margin-left: 8%;
+    margin-bottom: 4%;
+    font-weight: bold;
+}
+p{
+    margin-left: 10%;
+}
+.div1{
+    margin-top:5%;
+    margin-bottom: 5%;
+    background: #000;
+    /*background-image: url(./image/photo-1453928582365-b6ad33cbcf64.jpeg) ;
+    background-repeat: no-repeat;
+    background-position: right;
+    background-attachment: fixed;
+    background-size: cover;*/
+    opacity: 0.9;
+}
+.class1{
+    border: 1px solid black;
+    width:100%;
+    margin-left: 5%;
+    margin-top: 10%;
+}
+.class2{
+    border: 1px solid black;
+   /* width: 30%;
+    margin-left: 5%;
+    margin-top: 10%;*/
+    float: right;
+}
+
+.fa-globe,.fa-bullhorn,.fa-cart-arrow-down,.fa-lightbulb{
+    font-size: 30px;
+    color: orange;
+    margin-bottom: 10%;
+    margin-top: 10%;
+    /*display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;*/
+}
+.hh1{
+    text-align: center;
+    font-weight: bold;
+}
+.ps{
+    margin-top: 5%;
+    opacity: 1.8;
+}
+.real{
+    font-weight: bolder;
+    color: gray;
+}
+.header{
+    margin-bottom: 20%;
+    color: white;
+    font-size: 20px;
+    text-decoration:underline solid;
+}
+.container5{
+    border: 0px solid black;
+    background-color:whitesmoke;
+    margin-left: 10%;
+    margin-right: 30%;
+    width: 70%;
+}
+.apt{
+    text-align: left;
+    font-weight: bold;
+    font-size: 20px;
+    margin-right: 50%;
+    margin-left: 15%;
+}
+.src1{
+    margin-right: 1%;
+    margin-left: 2%;
+    margin-bottom: 2%;
+
+}
+.h33{
+    margin-left: 3%;
+}
+.imgctn{
+    margin-top: 5%;
+    background-color: whitesmoke;
+    margin-top: 10%;
+}
+.img2{
+    margin: 5%;
+}
+.h44{
+    font-weight: bolder;
+    margin-left: 10%;
+    margin-bottom: 5%;
+}
+.p9{
+font-weight: 600;
+}
+.head2{
+    margin-left: 5%;
+    margin-top: 7%;
+    margin-bottom: 5%;
+}
+.src2{
+    margin-right: 1%;
+    margin-left: 3%;
+    margin-bottom: 2%;
+
+}
+.container4{border: 0px solid black;
+    width: 100%;
+    background-color: whitesmoke;
+}
+.cw{text-align: start;
+    line-height: 1.1;
+}
+.vp{font-weight: bold;
+    font-size: 15px;
+    color: red;
+    text-decoration: underline;
+}
+.cons{letter-spacing: 3px;
+    font-weight: normal;
+    font-size: 15px;
+    color: rgb(20, 20, 26);
+}   
+.stun{
+    margin-top: 15%;
+}
+.pro{
+    margin-left: 10%;
+}
+/*.container5{border: 0px solid black;
+    width: 50%;
+    background-color: whitesmoke;
+}*/
+.prob{
+    margin-left: 27%;
+}
+.ceo{
+    text-align: center;
+    font-size: 20px;
+    color: gray;
+    font-weight: bold;
+}
+.pcon{
+    font: bold;
+    font-size: 17px;
+    font-weight: bold;
+    color: grey;
+}
+h4{
+    font: bold;
+    font-size: 30px;
+    font-weight: bold;
+    color: black;
+    margin-left: 10%;
+
+}
+label{
+    margin-left: 10%;
+}
+input{
+    margin-left: 10%;
+    border: 1px solid black;
+    /*padding: 15px;*/
+    width: 70%;
+    height: 50px;
+    margin-top: 1%;
+    margin-bottom: 3%;
+}
+.inp{
+    height: 150px;
+}

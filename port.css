@@ -1,0 +1,190 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+body{
+    /*background-image: url(../realportfoilo/image/IMG_20230305_122712.jpg) ;*/
+    opacity: 1.5;
+    z-index: -5;
+    background: #000
+    /*background-size: cover;
+    background-position: right;
+    background-position-x: right;
+    background-position-y: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;*/
+
+}
+.offcanvas-body{
+    background-color: #000;
+}
+navbar .navbar-expand-lg bg-body-tertiary{
+    background-color: #000;
+}
+.navbar{
+    background-color: #000;
+}
+.navbar-toggler-icon{
+    background-color: #000;
+    
+}
+.navbar-toggler{
+    color: black;
+    background-color: #000;
+}
+
+.fa-bars{
+    color: #fff;
+    margin-top: 20%;
+}
+.offcanvas-header{
+    background-color: whitesmoke;
+}
+.navbar-brand{
+    color: #fff;
+    text-transform: capitalize;
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-style: normal;
+    margin-left: 9%;
+    margin-right: 10%;
+    
+}
+span{
+    color: red;
+}
+.emy{
+    color: white;
+}
+.nav-link active{
+    float: right;
+}
+/*.nav-item{
+    text-align: center;
+}*/
+.dropdown-item{
+    width: 20%;
+    padding: auto;
+
+}
+.dropdown-menu{
+    margin-right: 50%;
+    background-color: whitesmoke;
+    opacity: 1.5;
+}
+
+li{
+    color: #ff0000;
+}
+ul{
+    margin:auto;
+    margin-right: 100px;
+
+}
+h1{
+    /*margin-left: 90px;
+    margin-top: 100px;
+    text-align: center;*/
+    margin-left: 10%;
+    margin-top: 13%;
+    color: red;
+}
+.img1{
+    margin-top: 80px;
+    margin-left: 10%;
+    border-radius: 10%;
+    float: left;
+        
+}
+.pp{
+    /*text-align: left;*/
+    margin-left: 10%;
+    color: gray;
+    text-shadow: 1px 1px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    text-indent: 1px;
+    letter-spacing: 2px;
+
+}
+
+.p1{
+    color: white;
+    margin-left: 10%;
+}
+.btn1{
+  background-color: red;
+  margin-top: 20px;
+  margin-left: 20%;
+  border: 2px solid black;
+  box-shadow: 2px 2px white;
+}
+.btn1:hover{
+  cursor: pointer;
+  background-color:orangered ;
+  transition-duration: 2s;
+}
+.btn2{
+  background-color: transparent;
+  margin-top: 20px;
+  margin-left:10px;
+  border: 2px solid white;
+  box-shadow: 2px 2px red;
+}
+footer{
+    border: 1px solid black;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 50px;
+    color: blue;
+}
+.footer .copyright {
+
+    position: relative;
+    
+    padding: 25px 0;
+    
+    background: #000000;
+    
+    }
+    
+    .footer .copyright .copy-text p {
+    
+    margin: 0;
+    
+    font-size: 16px;
+    
+    font-weight: 400;
+    
+    color: #999999;
+    margin-top: 50px;
+    
+    }
+    
+    .footer .copyright .copy-text p a {
+    
+    color: #0085ff;
+    
+    text-decoration: none;
+    
+    }
+    
+    .footer .copyright .copy-text p a:hover {
+    
+    color: #ff008c;
+    
+    }
+    .copy-text{
+        margin-top: 15%;
+        margin-left: 50px;
+        text-align: center;
+    }
+    i{
+        margin-left: 10px;
+    }
+    i:hover{
+        color: red;
+    }
